@@ -1,0 +1,239 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "If Tom has 5/12 of a cookie and Maya has 3/12 of a cookie, who has more cookies?",
+      "options": [
+          "Tom",
+          "Maya"
+      ],
+      "correct": 0,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+      "questionNo": "Q2",
+      "question": "If Grandma has 3/8 of a bag of flour and Maya has 2/8 of a bag, whose bag has more flour?",
+      "options": [
+          "1/8",
+          "3/8",
+          "2/8",
+          "Both are equal"
+      ],
+      "correct": 1,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+      "questionNo": "Q3",
+      "question": "Maya and Tom were baking cookies. If Maya used 1/2 cup of sugar for the recipe, how many cups of sugar did Tom use if he used an equivalent fraction?",
+      "options": [
+          "3/6 cup",
+          "4/3 cup",
+          "7/4 cup",
+          "All of the above"
+      ],
+      "correct": 0,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+      "questionNo": "Q4",
+      "question": "In the garden, Maya watered 1/2 of the plants. If Tom watered an equivalent fraction of plants, how many plants did he water?",
+      "options": [
+          "5/10 of the plants",
+          "6/12 of the plants",
+          "9/18 of the plants",
+          "All of the above"
+      ],
+      "correct": 3,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+      "questionNo": "Q5",
+      "question": "Maya and Tom were sorting through Grandma's fruit basket. They found that 1/7 of the fruit were apples, 4/7 of the oranges, and 5/7 of the bananas. Arrange the fruits in descending order based on the portion that is ripe.",
+      "options": [
+          "Apples, oranges, bananas",
+          "Bananas, oranges, apples",
+          "Bananas, apples, oranges",
+          "Not enough information to determine"
+      ],
+      "correct": 1,
+      "img": "./assests/images/5.jpg"
+  },
+  {
+      "questionNo": "Q6",
+      "question": "Grandma had a basket of apples. If Maya ate 1/4 of the apples, how many apples did Tom eat if he ate an equivalent fraction?",
+      "options": [
+          "2/8 of the apples",
+          "3/12 of the apples",
+          "5/20 of the apples",
+          "All of the above"
+      ],
+      "correct": 3,
+      "img": "./assests/images/6.jpg"
+  },
+  {
+      "questionNo": "Q7",
+      "question": "Grandma showed Tom and Maya two rectangular-shaped plots, whose areas were shaded differently. Find out which plot has more shaded area.",
+      "options": [
+          "Plot 1",
+          "Plot 2",
+          "They are equal",
+          "Cannot be determined"
+      ],
+      "correct": 0,
+      "img": "./assests/images/7.jpg"
+  },
+  {
+      "questionNo": "Q8",
+      "question": "Tom asked Grandma if she could tell him, which of the following fractions are like fractions?",
+      "options": [
+          "1/4, 2/4, 3/4",
+          "1/2, 1/3, 1/4",
+          "1/2, 1/4, 1/8",
+          "1/3, 1/5, 1/2"
+      ],
+      "correct": 0,
+      "img": "./assests/images/8.jpg"
+  },
+  {
+      "questionNo": "Q9",
+      "question": "If Maya has 17/18 of a chocolate bar and Tom has 21/18 of a chocolate bar, who has more chocolate?",
+      "options": [
+          "Maya",
+          "Tom",
+          "Both have the same amount of chocolate"
+      ],
+      "correct": 1,
+      "img": "./assests/images/9.jpg"
+  },
+  {
+      "questionNo": "Q10",
+      "question": "Maya and Tom are painting garden plots. Plot A has 2/5 of its area shaded, Plot B has 3/5, and Plot C has 4/5. Arrange the plots in ascending order based on the shaded area.",
+      "options": [
+          "Plot A, Plot B, Plot C",
+          "Plot C, Plot B, Plot A",
+          "Plot B, Plot A, Plot C",
+          "Plot A, Plot C, Plot B"
+      ],
+      "correct": 0,
+      "img": "./assests/images/10.jpg"
+  },
+  {
+      "questionNo": "Q11",
+      "question": "Maya and Tom are painting two rectangular garden plots for their grandma. The plot i has 9/5 of its area shaded, and the plot ii has 9/10 of its area shaded. Which garden plot has a larger shaded area, and why?",
+      "options": [
+          "Plot i",
+          "Plot ii",
+          "Both plot i & plot ii",
+          "It cannot be determined"
+      ],
+      "correct": 0,
+      "img": "./assests/images/11.jpg"
+  },
+  {
+      "questionNo": "Q12",
+      "question": "Grandma gave them two rectangular plots of the same size to paint as shown below. Find the fraction of the given plot i & plot ii and tell which plot has a larger shaded area.",
+      "options": [
+          "Plot i",
+          "Plot ii",
+          "Both plot i & plot ii",
+          "It cannot be determined"
+      ],
+      "correct": 1,
+      "img": "./assests/images/12.jpg"
+  },
+  {
+      "questionNo": "Q13",
+      "question": "Tom asked Maya to arrange the following fractions in descending order: 7/8, 7/25, 7/11, 7/18, 7/13",
+      "options": [
+          "7/8, 7/25, 7/18, 7/13, 7/11",
+          "7/8, 7/11, 7/13, 7/18, 7/25",
+          "7/8, 7/11, 7/25, 7/11, 7/18",
+          "7/25, 7/18, 7/13, 7/11, 7/8"
+      ],
+      "correct": 1,
+      "img": "./assests/images/13.jpg"
+  },
+  {
+      "questionNo": "Q14",
+      "question": "Grandma asked Maya and Tom to arrange the following fractions in descending order: 23/47, 23/29, 23/41, 23/31, 23/37",
+      "options": [
+          "23/29, 23/31, 23/37, 23/41, 23/47",
+          "23/31, 23/29, 23/37, 23/41, 23/47",
+          "23/47, 23/41, 23/37, 23/31, 23/29",
+          "23/29, 23/31, 23/41, 23/31, 23/47"
+      ],
+      "correct": 0,
+      "img": "./assests/images/14.jpg"
+  },
+  {
+      "questionNo": "Q15",
+      "question": "In the kitchen, Grandma had two plates of cookies. On one plate, 5/7 of the cookies were chocolate chips, and on the other plate, 5/12 of the cookies were chocolate chips. Which plate has a larger portion of chocolate chip cookies?",
+      "options": [
+          "The first plate",
+          "The second plate",
+          "Both plates have the same portion",
+          "Not enough information to determine"
+      ],
+      "correct": 0,
+      "img": "./assests/images/15.jpg"
+  },
+  {
+      "questionNo": "Q16",
+      "question": "Maya and Tom found three jars of marbles. In the first jar, 2/5 of the marbles were blue, in the second jar, 3/5, and in the third jar, 4/5. Arrange the jars in descending order based on the portion of blue marbles.",
+      "options": [
+          "First jar, second jar, third jar",
+          "Third jar, second jar, first jar",
+          "Third jar, first jar, second jar",
+          "Not enough information to determine"
+      ],
+      "correct": 1,
+      "img": "./assests/images/16.jpg"
+  },
+  {
+      "questionNo": "Q17",
+      "question": "Maya asked Tom to arrange the following fractions in ascending order: 5/3, 5/6, 5/9, 5/12, 5/18.",
+      "options": [
+          "5/3, 5/6, 5/9, 5/12, 5/18",
+          "5/18, 5/12, 5/9, 5/6, 5/3",
+          "5/3, 5/9, 5/6, 5/12, 5/18",
+          "5/3, 5/6, 5/9, 5/18, 5/12"
+      ],
+      "correct": 1,
+      "img": "./assests/images/17.jpg"
+  },
+  {
+      "questionNo": "Q18",
+      "question": "While sorting Grandma's button collection, Maya and Tom found that 7/5 of the buttons in one box were blue and 7/8 of the buttons in another box were blue. Which box has a larger portion of blue buttons?",
+      "options": [
+          "The first box",
+          "The second box",
+          "Both boxes have the same portion",
+          "Not enough information to determine"
+      ],
+      "correct": 0,
+      "img": "./assests/images/18.jpg"
+  },
+  {
+      "questionNo": "Q19",
+      "question": "Grandma has a basket of apples. If Maya ate 1/4 of the apples, how many apples did Tom eat if he ate an equivalent fraction?",
+      "options": [
+          "2/18 of the apples",
+          "3/12 of the apples",
+          "5/30 of the apples",
+          "All of the above"
+      ],
+      "correct": 1,
+      "img": "./assests/images/19.jpg"
+  },
+  {
+      "questionNo": "Q20",
+      "question": "Maya and Tom found two jars of marbles in the attic. The first jar has 3/10 of its marbles painted red, and the second jar has 3/5 of its marbles painted red. Which jar has a larger portion of red marbles?",
+      "options": [
+          "The first jar",
+          "The second jar",
+          "Both jars have the same portion",
+          "Not enough information to determine"
+      ],
+      "correct": 1,
+      "img": "./assests/images/20.jpg"
+  }
+]
